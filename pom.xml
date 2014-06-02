@@ -41,6 +41,6 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>surl4</finalName>
+		<finalName>surl</finalName>
 	</build>
 </project>
