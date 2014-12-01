@@ -1,5 +1,2 @@
-RemoteSystemsTempFiles/
-Servers/
-target/
-.metadata/
-.settings/
+/target
+/.settings
